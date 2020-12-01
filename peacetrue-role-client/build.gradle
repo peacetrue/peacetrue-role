@@ -1,0 +1,7 @@
+description '角色客户端'
+
+dependencies {
+    api project(":peacetrue-role-service-api")
+    api 'org.springframework.data:spring-data-commons'
+    api 'com.playtika.reactivefeign:feign-reactor-spring-configuration'
+}

@@ -1,0 +1,6 @@
+rootProject.name = "peacetrue-role"
+include("peacetrue-role-service-api")
+include("peacetrue-role-service-impl")
+include("peacetrue-role-controller")
+include("peacetrue-role-app")
+include("peacetrue-role-client")
